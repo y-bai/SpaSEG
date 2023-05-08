@@ -1,0 +1,9 @@
+{
+    "baseline_wk_path":"./result/baseline/",
+    "multisection_wk_root_path":"./result/multisection/",
+    "multisection_wk_10x_root":"./result/multisection/mouse_brain/raw_data/",
+    "svg_wk_root":"./result/svg/",
+    "cci_wk_root":"./result/cci/",
+    "MB_wk_root":"./result/cci/MB",
+    "idc_wk_root":"./result/cci/IDC",
+}
